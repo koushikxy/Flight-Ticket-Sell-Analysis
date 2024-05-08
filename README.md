@@ -19,10 +19,6 @@ This repository contains an analysis dashboard created in Excel for visualizing 
 4. **Apply Filters**: Use filters provided in the dashboard to drill down into specific data segments.
 5. **Interact with Charts**: Hover over data points on charts for detailed information.
 
-## Screenshots
-
-![FLIGHT TICKET SELL_page-0001](https://github.com/koushikxy/Flight-Ticket-Sell-Analysis/assets/120478621/4f753784-044f-4ab7-acae-47d7d3f6c048)
-
 ## Feedback and Contributions
 
 Feedback and contributions are welcome! If you have any suggestions or would like to contribute to this project, feel free to open an issue or submit a pull request.
