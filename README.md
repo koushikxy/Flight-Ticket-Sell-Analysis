@@ -14,7 +14,7 @@ This repository contains an analysis dashboard created in Excel for visualizing 
 ## How to Use
 
 1. **Download the Excel File**: Clone or download the repository to your local machine.
-2. **Open the Excel File**: Double click on the Excel file (`Flight_Ticket_Sales_Analysis.xlsx`) to open it in Excel.
+2. **Open the Excel File**: Double click on the Excel file to open it in Excel.
 3. **Explore the Dashboard**: Navigate through different sheets to explore various visualizations and metrics.
 4. **Apply Filters**: Use filters provided in the dashboard to drill down into specific data segments.
 5. **Interact with Charts**: Hover over data points on charts for detailed information.
